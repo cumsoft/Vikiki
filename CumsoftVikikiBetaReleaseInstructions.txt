@@ -24,9 +24,10 @@
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯
 
 *Browser installation*
-- Download from source: (https://)
+- Download from source: (https://cumsoft.gumroad.com/l/Vikiki)
 - Navigate to target folder: Search keyword "CumsoftVikikiBetaReleaseEXE or "../user//CumsoftVikikiBetaReleaseEXE.zip/.."
 - Decompress/Unzip folder with your choice of software
+- Inside the "App" Folder 
 - Double-click "Setup" to begin Installer; follow install prompt till complete
 - Double-click "Launch" to open Application
 ```
@@ -34,6 +35,7 @@
 $ # winget install http://www.example.com/repo/example.pkg.tar.zst
 $ C:///path/to/the/file "CumsoftVikikiBetaReleaseEXE"
 $ Decompress/Unzip folder with your choice of software
+$ Inside the "App" Folder
 $ Double-click "Setup" to begin Installer; follow install prompt till complete
 $ Double-click "Launch" to open Application
 ```
