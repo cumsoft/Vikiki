@@ -17,7 +17,7 @@
 >
 
 ### 𝘚𝘤𝘳𝘦𝘦𝘯𝘴𝘩𝘰𝘵
-![Image text]()
+![Image text](https://github.com/cumsoftcumsoft/Vikiki/blob/bcedd1de962e5bec005a7de95e8dd3d8a4b75790/CumsoftVikikiBetaReleaseREADME.png)
 
 ### Compatible With Windows Operating Systems Only:
 
