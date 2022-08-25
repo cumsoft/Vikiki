@@ -1,6 +1,9 @@
 ## ʕっ⨵෴⨴ʔっ <( Thank you for your purchase!)
 
 ### Cumsoft vikiki Virtual KEyboard <3
+
+![Image text](https://public-files.gumroad.com/e0foljuy8cl14df0clp8fufk4mgj)
+
 # 𝘛𝘢𝘣𝘭𝘦 𝘰𝘧 𝘊𝘰𝘯𝘵𝘦𝘯𝘵𝘴
 1. [Software Info](#Software-Info)
 2. [Screenshot](#Screenshot)
