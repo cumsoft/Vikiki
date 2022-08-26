@@ -1,6 +1,6 @@
 ## ʕっ⨵෴⨴ʔっ <( Thank you for your purchase!)
 
-### Cumsoft vikiki Virtual KEyboard <3
+### Cumsoft Vikiki Virtual KEyboard <3
 
 ![Image text](https://public-files.gumroad.com/e0foljuy8cl14df0clp8fufk4mgj)
 
@@ -15,14 +15,14 @@
 8. [Cumsoft](#Cumsoft)
 
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘧𝘰
-> CumsoftVKeyB, created by Cumsoft, is an interactive software for Windows that
+> CumsoftVikiki, created by Cumsoft, is an interactive software for Windows that
 > lets you download an on-screen keyboard on any computer device with or without a touchscreen.
->
+> Allowing a user to type via touchscreen or mouse click with the abcense of a physical keyboard.
 
 ### 𝘚𝘤𝘳𝘦𝘦𝘯𝘴𝘩𝘰𝘵
 ![Image text](https://github.com/cumsoftcumsoft/Vikiki/blob/bcedd1de962e5bec005a7de95e8dd3d8a4b75790/CumsoftVikikiBetaReleaseREADME.png)
 
-### Compatible With Windows Operating Systems Only:
+### Compatible With Windows Operating Systems Only!!
 
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯
 
@@ -45,12 +45,12 @@ $ Double-click "Launch" to open Application
 ### 𝘏𝘰𝘸 𝘵𝘰 𝘜𝘴𝘦
 > Please firstly, Follow and review the install instructions. 
 >
-> CumsoftVKeyB is a "OSK" or "Virtual Keyboard" 
+> Cumsoft Vikiki is an "OSK" or "Virtual Keyboard" 
 > A virtual keyboard is a software component that allows the input of characters without the need for 
 > physical keys.[1] The interaction with the virtual keyboard happens mostly via a touchscreen interface,
 > but can also take place in a different form in virtual or augmented reality.
 >
-> works on any touchscreen device. It has a Windows 10, 8, 8.1, 7, or Windows XP or Vista system 
+> works with or without touchscreen device. It has a Windows 11, 10, 8, 8.1, 7, or Windows XP or Vista system 
 > requirement.
 
 ### 𝘙𝘦𝘴𝘰𝘶𝘳𝘤𝘦𝘴
@@ -58,6 +58,7 @@ $ Double-click "Launch" to open Application
 | Resource | Url |
 | ------ | ------ |
 | Visual Studio Community22 | [https://visualstudio.microsoft.com/] |
+| dotnet-6 | [https://docs.microsoft.com/en-us/dotnet/csharp/] |
 | C# | [https://docs.microsoft.com/en-us/dotnet/csharp/] |
 | Cumsoft's Teenyweeny | [https://github.com/cumsoft/Teenyweeny] |
 | Cumsoft's Vikiki Virtual Keyboard | [https://github.com/cumsoftcumsoft/Vikiki] |
