@@ -1,6 +1,6 @@
 ## ʕっ⨵෴⨴ʔっ <( Thank you for your purchase!)
 
-### Cumsoft Vikiki Virtual KEyboard <3
+### Cumsoft Vikiki Virtual Keyboard <3
 
 ![Image text](https://public-files.gumroad.com/e0foljuy8cl14df0clp8fufk4mgj)
 
