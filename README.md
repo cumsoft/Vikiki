@@ -23,7 +23,7 @@
 ![Image text](https://github.com/cumsoftcumsoft/Vikiki/blob/bcedd1de962e5bec005a7de95e8dd3d8a4b75790/CumsoftVikikiBetaReleaseREADME.png)
 
 ### Compatible With Windows Operating Systems Only!!
-
+> Build <> Windows 7\8.1\10 21H1  [X86_X64] <>
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯
 
 *Browser installation*
