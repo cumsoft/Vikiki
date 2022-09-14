@@ -23,7 +23,7 @@
 ![Image text](https://github.com/cumsoftcumsoft/Vikiki/blob/bcedd1de962e5bec005a7de95e8dd3d8a4b75790/CumsoftVikikiBetaReleaseREADME.png)
 
 ### Compatible With Windows Operating Systems Only!!
-
+> Build <> Windows 7\8.1\10 21H1  [X86_X64] <>
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯
 
 *Browser installation*
@@ -52,6 +52,9 @@ $ Double-click "Launch" to open Application
 >
 > works with or without touchscreen device. It has a Windows 11, 10, 8, 8.1, 7, or Windows XP or Vista system 
 > requirement.
+>
+> Vikiki is great for teachers of all ages, find yourself lecturing the class with a smart board and using the default touch screen keyboard?
+> why not add alittle color to your teaching workflow and help keep students eyes on the board. 
 
 ### 𝘙𝘦𝘴𝘰𝘶𝘳𝘤𝘦𝘴
 
