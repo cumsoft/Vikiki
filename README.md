@@ -82,3 +82,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 𝘾𝙪𝙢𝙨𝙤𝙛𝙩 𝘾𝙤𝙥𝙮𝙧𝙞𝙜𝙝𝙩 © ２０２２
 [Github](https://github.com/cumsoft) * [Website](https://cumsoft.wixsite.com/cumsoft) * [Instagram](https://instagram.com/cumsoftcumsoft?igshid=YmMyMTA2M2Y=) * [Gumroad](https://cumsoft.gumroad.com/)
+
+### Latest Updates
+>
+>
+> Cumsoft is actively working on a workflow to port Vikiki to linux, this is mainly possible via wine. 
+>
+> Further Documentation coming in the future.
+>
